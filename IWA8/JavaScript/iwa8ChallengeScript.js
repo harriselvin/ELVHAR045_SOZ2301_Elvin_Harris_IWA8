@@ -38,5 +38,5 @@ const sarah = {
 	}
 }
 
-console.log(leo, leo.address)
-console.log(sarah, sarah.address)
+console.log(leo, leo.address, leoPostal)
+console.log(sarah, sarah.address, sarahPostal)
